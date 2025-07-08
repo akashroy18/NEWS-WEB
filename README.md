@@ -2,18 +2,7 @@
 
 A dynamic and responsive News App built using **HTML**, **CSS**, and **JavaScript**, powered by the **NewsAPI**. This application allows users to filter top headlines based on country and category in real time.
 
-## 🔗 Live Demo
 
-👉 [View Live](https://your-live-link-here.com)  
-👉 [Watch Demo Video (Optional)](https://your-demo-video-link.com)
-
----
-
-## 📸 Preview
-
-![App Preview](./preview.png) <!-- Replace with your actual screenshot path -->
-
----
 
 ## 🚀 Features
 
